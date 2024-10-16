@@ -1,0 +1,27 @@
+@page "/artigo1"
+@using Markdig
+@inject HttpClient Http
+
+<title>Vamos instalar o Visual Studio Code?</title>
+<head>
+    <link href="css/artigos-textos-styles.css" rel="stylesheet" />
+</head>
+<div class="artigo-content">
+    @((MarkupString)conteudoMd)
+</div>
+
+@code {
+    private string conteudoMd;
+
+    protected override async Task OnInitializedAsync()
+    {
+        // Caminho para o arquivo markdown no wwwroot
+        var caminhoDoArquivo = "textos/instalando-vscode.md";
+
+        // Usando HttpClient para buscar o arquivo do diretório wwwroot
+        var markdownContent = await Http.GetStringAsync(caminhoDoArquivo);
+
+        // Convertendo Markdown para HTML usando Markdig
+        conteudoMd = Markdown.ToHtml(markdownContent);
+    }
+}

@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(250, 239, 207); 
+}
+
+.artigo-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.artigo {
+    background-color: #759399;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    flex: 1 0 30%; /* Faz com que os artigos ocupem 30% do espaço, ajustando para a largura */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.artigo h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: rgb(255, 254, 253);
+}
+
+.artigo p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color:rgb(253, 253, 253);
+}

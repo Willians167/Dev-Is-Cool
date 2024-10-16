@@ -1,0 +1,77 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+
+    <main>
+        <div class="top-row px-4">
+            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank" class="btn" title="Documentação .Net">
+            <i class="devicon-dotnetcore-plain colored" style="font-size: 2em;"></i>
+                    </a>
+
+            <a href="mailto:prwillians.costa@gmail.com" class="btn" title="Email">
+                <i class="fa fa-envelope" style="font-size: 2em;"></i> 
+                
+            </a>
+          <a href="https://www.linkedin.com/in/willianscostapaulino" target="_blank" class="btn" title="LinkedIn">
+    <i class="devicon-linkedin-plain colored" style="font-size: 2em;"></i> 
+</a>
+
+            <a href="https://github.com/Willians167" target="_blank" class="btn" title="GitHub">
+            <i class="devicon-github-original-wordmark" style="font-size: 2em;"></i>
+                      </a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+</div>
+
+<!-- CSS Customizado -->
+<style>
+    .top-row {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        margin-bottom: 20px; /* Espaçamento abaixo da linha de botões */
+    }
+
+    .btn {
+        background-color: #2c2c2e; /* Fundo chumbo */
+        color: #f5f5f7; /* Texto claro */
+        padding: 10px 15px;
+        margin-right: 10px; /* Espaçamento entre botões */
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        display: inline-flex;
+        align-items: center;
+        font-size: 1rem;
+        transition: background-color 0.3s;
+    }
+
+    .btn:hover {
+        background-color: #ffd700; /* Altera a cor ao passar o mouse */
+        color: #2c2c2e; /* Altera a cor do texto ao passar o mouse */
+    }
+
+    .btn i {
+        margin-right: 5px; /* Espaçamento entre o ícone e o texto */
+    }
+
+    .contacts {
+        text-align: center; /* Centraliza o texto */
+    }
+</style>
+
+<!-- Adicione a biblioteca de ícones Font Awesome no cabeçalho do seu _Host.cshtml ou index.html -->
+<!-- Para Blazor WebAssembly -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+<!-- Para Blazor Server -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+ 
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          

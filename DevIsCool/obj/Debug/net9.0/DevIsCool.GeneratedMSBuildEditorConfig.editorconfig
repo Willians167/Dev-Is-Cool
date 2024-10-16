@@ -1,0 +1,68 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = DevIsCool
+build_property.RootNamespace = DevIsCool
+build_property.ProjectDir = A:\Dev-Escola\Dev-Is-Cool\DevIsCool\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = A:\Dev-Escola\Dev-Is-Cool\DevIsCool
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/@Artigo1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQEFydGlnbzEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/@Artigo2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQEFydGlnbzIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/@Artigo3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQEFydGlnbzMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/@Desafios.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQERlc2FmaW9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/@Videos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQFZpZGVvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/Artigos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXJ0aWdvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rdpovf6sy1
+
+[A:/Dev-Escola/Dev-Is-Cool/DevIsCool/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v5gspgiy73

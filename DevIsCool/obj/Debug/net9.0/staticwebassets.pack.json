@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css",
+      "PackagePath": "staticwebassets\\DevIsCool.styles.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
+      "PackagePath": "staticwebassets\\css\\artigos-textos-styles.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
+      "PackagePath": "staticwebassets\\css\\artigos.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
+      "PackagePath": "staticwebassets\\css\\desafios.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
+      "PackagePath": "staticwebassets\\css\\videos.css"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\baner.jpeg",
+      "PackagePath": "staticwebassets\\images\\baner.jpeg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\baner2.jpeg",
+      "PackagePath": "staticwebassets\\images\\baner2.jpeg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo2.jpeg",
+      "PackagePath": "staticwebassets\\images\\logo2.jpeg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo3.jpeg",
+      "PackagePath": "staticwebassets\\images\\logo3.jpeg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\textos\\instalando-vscode.md",
+      "PackagePath": "staticwebassets\\textos\\instalando-vscode.md"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DevIsCool.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.DevIsCool.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.DevIsCool.props",
+      "PackagePath": "build\\DevIsCool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.DevIsCool.props",
+      "PackagePath": "buildMultiTargeting\\DevIsCool.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.DevIsCool.props",
+      "PackagePath": "buildTransitive\\DevIsCool.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

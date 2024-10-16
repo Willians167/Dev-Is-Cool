@@ -1,0 +1,35 @@
+@page "/artigos"
+
+<PageTitle>Artigos</PageTitle>
+<!-- Para Blazor WebAssembly (wwwroot/index.html) -->
+<head>
+    <link href="css/artigos.css" rel="stylesheet" />
+</head>
+<body>
+<h1>Artigos</h1>
+
+<div class="artigo-container">
+    <div class="artigo" >
+        <h2>Vamos instalar o vs Code?</h2>
+        <p>Aqui você vai aprender como instalar o Visual studio Code , ferramenta poderosa para começarmos a desenvolver nossos códigos.</p>
+        <a href="/artigo1" class="btn btn-primary">Leia mais</a>
+    </div>
+    
+    <div class="artigo" >
+        <h2> Artigo 2</h2>
+        <p>Em Breve...</p>
+        <a href="/artigos/artigo2" class="btn btn-primary">Leia mais</a>
+    </div>
+    
+    <div class="artigo" >
+        <h2>Artigo 3</h2>
+        <p>Em Breve</p>
+        <a href="/artigos/artigo3" class="btn btn-primary">Leia mais</a>
+    </div>
+    
+    <!-- Adicione mais artigos conforme necessário -->
+</div>
+</body>
+@code {
+    // Aqui você pode adicionar lógica para buscar os artigos de uma API ou banco de dados
+}

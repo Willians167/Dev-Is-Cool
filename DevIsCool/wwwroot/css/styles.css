@@ -2,7 +2,9 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: rgb(250, 239, 207); /* Fundo preto */
+    background-image: linear-gradient(180deg,#759399  0%, #f5e6c9 50%, #ffff);
+
+   /* background-color: rgb(250, 239, 207);  Fundo preto */
     color: #071718; /* Texto claro */
 }
 
@@ -19,6 +21,7 @@ h3{
     font-size: 2.5rem;
     margin: 0;
 } 
+
 
 
 nav ul {

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DevIsCool",
   "resources": {
-    "hash": "sha256-VuzVPa9DrG7O4pzL9vKVazEOFXwA5JK5D8iwciQro9E=",
+    "hash": "sha256-3DaNyDYv9dITop4CbgNZn4tX7Nk4tbbXKJ/I93fzXMQ=",
     "fingerprinting": {
       "Markdig.earcieyyzk.wasm": "Markdig.wasm",
       "Microsoft.AspNetCore.Authorization.6iz29fp231.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -202,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "DevIsCool.a5lk4ov7e5.wasm": "DevIsCool.wasm",
-      "DevIsCool.mr3ucr6qc4.pdb": "DevIsCool.pdb"
+      "DevIsCool.61cqjowh90.wasm": "DevIsCool.wasm",
+      "DevIsCool.en42oj8dbn.pdb": "DevIsCool.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.0fbbyz7uv3.js": "sha256-dDM8L8vSODqdWkZFTgHiiqLdNoQ3rSGH/kdJxHx42ys="
@@ -414,10 +414,10 @@
       "WindowsBase.lc9eiktle0.wasm": "sha256-K6fVEeTcUpmfAgcQZKEF2t2LTMJAi1RLO0DTUkOOPOk=",
       "mscorlib.p8nn03wyo0.wasm": "sha256-aUFPl5WH/0Mzjw8aAubxdZSHJgNbwwmNuWE1iHwCEG4=",
       "netstandard.8iwlv2ubpa.wasm": "sha256-0P7glxqKB0dgs2xIJ51l8/B9w6bkmInT6Kq0Lx5/Zjk=",
-      "DevIsCool.a5lk4ov7e5.wasm": "sha256-DjztaVBHcbJqaISV+/8I900MDYvrQjjy5kBvlvTNs/4="
+      "DevIsCool.61cqjowh90.wasm": "sha256-alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ="
     },
     "pdb": {
-      "DevIsCool.mr3ucr6qc4.pdb": "sha256-kiYBOqPRuwMtYBFMH4FicjbGXHiDoOaPB4Dtzfr5FQE="
+      "DevIsCool.en42oj8dbn.pdb": "sha256-CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA="
     }
   },
   "cacheBootResources": true,

@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\logo.jpg",
+      "PackagePath": "staticwebassets\\logo.jpg"
+    },
+    {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

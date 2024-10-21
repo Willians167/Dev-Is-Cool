@@ -10,7 +10,7 @@ main[b-rdpovf6sy1] {
 }
 
 .sidebar[b-rdpovf6sy1] {
-    background-image: linear-gradient(180deg,#759399  0%, #f5e6c9 70%);
+    background-image: linear-gradient(180deg,#759399  0%, #f5e6c9 50%, #ffff);
 }
 
 .top-row[b-rdpovf6sy1] {
@@ -89,7 +89,7 @@ main[b-rdpovf6sy1] {
 .navbar-brand[b-v5gspgiy73] {
     font: OCR A Std, monospace;
     font-size: 1.1rem;
-    color: #cfabab; /* Nuance de amarelo */
+    color: rgb(224, 93, 68); /* Nuance de amarelo */
 }
 
 .bi[b-v5gspgiy73] {
@@ -143,7 +143,7 @@ main[b-rdpovf6sy1] {
 }
 
 .nav-item[b-v5gspgiy73]  a:hover {
-    background-color: rgba(222, 197, 197, 0.921);
+    background-color: rgb(224, 93, 68);
     color: white;
 }
 

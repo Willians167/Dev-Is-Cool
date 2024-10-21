@@ -1,17 +1,20 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
+﻿@* <div class="top-row ps-3 navbar navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="">Dev Is Cool</a>
+                <img src="images/logo.jpg" alt="Logo Dev Is Cool" style="width: 50px; height: auto;" /> 
+
+         <a class="navbar-brand" href="">Dev Is Cool</a> 
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
-</div>
+</div> *@
 
 <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
     <nav class="flex-column">
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
+            <img src="images/logo.jpg" alt="Logo Dev Is Cool" style="width: 45px; height: auto;"  aria-hidden="true" /> Dev Is Cool
+
             </NavLink>
         </div>
         <div class="nav-item px-3">

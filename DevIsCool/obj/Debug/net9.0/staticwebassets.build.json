@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NtIl70zlS+prM3HsaD9q1Wb0nrEEubYRC9BNf+x8/Zk=",
+  "Hash": "rvPFGJzBmJWkYo33Nv+XhBmVgiQ/ThPvYj1nwBPiO1s=",
   "Source": "DevIsCool",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ax9teju4ip",
-      "Integrity": "gk7ndycV9LWas1qpKUZCvJDvKQMJJp+5h1/E2C8On6g=",
+      "Fingerprint": "t1ll2ih5xv",
+      "Integrity": "L4hJCFw4Wqr1IOohdAz2yxJN/fqNU9aF/HxIaiI58SE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "en42oj8dbn",
-      "Integrity": "CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA=",
+      "Fingerprint": "opz9obbmoh",
+      "Integrity": "9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\DevIsCool.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "61cqjowh90",
-      "Integrity": "alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ=",
+      "Fingerprint": "xnu10xrs5o",
+      "Integrity": "fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\webcil\\DevIsCool.wasm"
@@ -4406,12 +4406,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.AppContext.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-ljyi8txsap.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-zl91tndmvh.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "DevIsCool#[.{fingerprint=ljyi8txsap}]!.bundle.scp.css.gz",
+      "RelativePath": "DevIsCool#[.{fingerprint=zl91tndmvh}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -4420,8 +4420,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevIsCool.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u9d69of3o8",
-      "Integrity": "Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=",
+      "Fingerprint": "1zawg48lsv",
+      "Integrity": "jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevIsCool.bundle.scp.css"
@@ -4784,7 +4784,7 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\mscorlib.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-ax9teju4ip.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-t1ll2ih5xv.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
@@ -4798,8 +4798,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3tzg0y2108",
-      "Integrity": "R0FStGGOD8oKrhdmFDqqyikwQaLtNXgqOfY4pm27DnA=",
+      "Fingerprint": "aaxan81k61",
+      "Integrity": "/pFvhjbusTvTIHY2sbSR/72SxUpBur9/eEumvCte1FM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5456,27 +5456,6 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\a5ssc6hft8-cvkpsazzha.gz",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/artigos#[.{fingerprint=cvkpsazzha}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "tbtsz3kmke",
-      "Integrity": "h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css"
-    },
-    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\ac9ul4hiyb-9e23ikzqtx.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
@@ -5813,27 +5792,6 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dpdzh4gbkd-5ipweew5fc.gz",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/desafios#[.{fingerprint=5ipweew5fc}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css"
-    },
-    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dsv2bqze2j-iag0ou56lh.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
@@ -5918,12 +5876,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-ljyi8txsap.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-zl91tndmvh.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "DevIsCool#[.{fingerprint=ljyi8txsap}]?.styles.css.gz",
+      "RelativePath": "DevIsCool#[.{fingerprint=zl91tndmvh}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -5932,8 +5890,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "u9d69of3o8",
-      "Integrity": "Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=",
+      "Fingerprint": "1zawg48lsv",
+      "Integrity": "jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css"
@@ -6170,12 +6128,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-ru57qmlflx.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-g9npvrjjvn.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=ru57qmlflx}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=g9npvrjjvn}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6184,8 +6142,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r1jptumc8j",
-      "Integrity": "Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds=",
+      "Fingerprint": "57lfy09hj3",
+      "Integrity": "77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html"
@@ -6275,12 +6233,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-iudw56jszi.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-lgtfiovfui.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/styles#[.{fingerprint=iudw56jszi}]?.css.gz",
+      "RelativePath": "css/styles#[.{fingerprint=lgtfiovfui}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6289,8 +6247,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "093yf50tog",
-      "Integrity": "9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs=",
+      "Fingerprint": "x8l9fml242",
+      "Integrity": "0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css"
@@ -7115,27 +7073,6 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\lnt32v705y-gb4ftx0pkg.gz",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/artigos-textos-styles#[.{fingerprint=gb4ftx0pkg}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "a90dayttup",
-      "Integrity": "cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css"
-    },
-    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\ltndh1ah1k-957mncgo3j.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
@@ -7514,6 +7451,27 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.wasm"
     },
     {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pl3utv8phw-4f0ytoih9r.gz",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "js/carrossel#[.{fingerprint=4f0ytoih9r}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0vi8qubmjm",
+      "Integrity": "fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js"
+    },
+    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pmme72luvf-s7vw7ynn3v.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
@@ -7638,6 +7596,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
+    },
+    {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r2peq5pjjx-9dnm79a58i.gz",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "css/artigostextos#[.{fingerprint=9dnm79a58i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fdacdf1bff",
+      "Integrity": "fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r46w6x1u56-6iz29fp231.gz",
@@ -8480,12 +8459,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-en42oj8dbn.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-opz9obbmoh.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DevIsCool#[.{fingerprint=en42oj8dbn}]!.pdb.gz",
+      "RelativePath": "_framework/DevIsCool#[.{fingerprint=opz9obbmoh}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8494,8 +8473,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5lfbyo672j",
-      "Integrity": "V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA=",
+      "Fingerprint": "tgr52t6mmw",
+      "Integrity": "TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.pdb"
@@ -8627,12 +8606,12 @@
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-61cqjowh90.gz",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-xnu10xrs5o.gz",
       "SourceId": "DevIsCool",
       "SourceType": "Computed",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DevIsCool#[.{fingerprint=61cqjowh90}]!.wasm.gz",
+      "RelativePath": "_framework/DevIsCool#[.{fingerprint=xnu10xrs5o}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8641,8 +8620,8 @@
       "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "74eb4kb2o0",
-      "Integrity": "N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0=",
+      "Fingerprint": "5bqsy1ugyp",
+      "Integrity": "MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.wasm"
@@ -8688,27 +8667,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\netstandard.wasm"
-    },
-    {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yrp0g8znia-5ipweew5fc.gz",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "/",
-      "RelativePath": "css/videos#[.{fingerprint=5ipweew5fc}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yutlcmtf3e-06jb8qs2ao.gz",
@@ -8914,8 +8872,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "ljyi8txsap",
-      "Integrity": "YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=",
+      "Fingerprint": "zl91tndmvh",
+      "Integrity": "5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css"
@@ -8935,8 +8893,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "ljyi8txsap",
-      "Integrity": "YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=",
+      "Fingerprint": "zl91tndmvh",
+      "Integrity": "5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevIsCool.bundle.scp.css"
@@ -8963,12 +8921,12 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
       "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "css/artigos-textos-styles#[.{fingerprint}]?.css",
+      "RelativePath": "css/artigostextos#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -8977,32 +8935,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gb4ftx0pkg",
-      "Integrity": "nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k=",
+      "Fingerprint": "9dnm79a58i",
+      "Integrity": "zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\artigos-textos-styles.css"
-    },
-    {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/artigos#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cvkpsazzha",
-      "Integrity": "GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\artigos.css"
+      "OriginalItemSpec": "wwwroot\\css\\artigostextos.css"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -9047,27 +8984,6 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/desafios#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\desafios.css"
-    },
-    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
@@ -9082,32 +8998,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "iudw56jszi",
-      "Integrity": "GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I=",
+      "Fingerprint": "lgtfiovfui",
+      "Integrity": "5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
-    },
-    {
-      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
-      "SourceId": "DevIsCool",
-      "SourceType": "Discovered",
-      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/videos#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5ipweew5fc",
-      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\videos.css"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\favicon.png",
@@ -9194,6 +9089,48 @@
       "OriginalItemSpec": "wwwroot\\images\\baner2.jpeg"
     },
     {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo.jpg",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/fundo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmq0crty1m",
+      "Integrity": "266FD7emOSYiR5RLIPyO6L4N6PryMPzeOFl06z1WYVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fundo.jpg"
+    },
+    {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo2.jpg",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/fundo2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ds77sru4fq",
+      "Integrity": "LevFLQG6hN0uYHwpw4VdsP2f/Ts3CkQWNrP8MDANiU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fundo2.jpg"
+    },
+    {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo.jpg",
       "SourceId": "DevIsCool",
       "SourceType": "Discovered",
@@ -9213,6 +9150,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
+    },
+    {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1.jpg",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/logo1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "03368hhc44",
+      "Integrity": "HFEVGMdUYy4zoH8ewsy+E1loc4NdTEWZwxy4yqkfrDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo1.jpg"
+    },
+    {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1menor.jpg",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/logo1menor#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "reqhvtippd",
+      "Integrity": "De0Tp8mDESimleUeRlX0jKyKSQhonA+CU+jqIKwqSl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo1menor.jpg"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo2.jpeg",
@@ -9271,11 +9250,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ru57qmlflx",
-      "Integrity": "nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA=",
+      "Fingerprint": "g9npvrjjvn",
+      "Integrity": "/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js",
+      "SourceId": "DevIsCool",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/carrossel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4f0ytoih9r",
+      "Integrity": "oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\carrossel.js"
     },
     {
       "Identity": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\logo.jpg",
@@ -9361,11 +9361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gk7ndycV9LWas1qpKUZCvJDvKQMJJp+5h1/E2C8On6g=\""
+          "Value": "\"L4hJCFw4Wqr1IOohdAz2yxJN/fqNU9aF/HxIaiI58SE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9375,13 +9375,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gk7ndycV9LWas1qpKUZCvJDvKQMJJp+5h1/E2C8On6g="
+          "Value": "sha256-L4hJCFw4Wqr1IOohdAz2yxJN/fqNU9aF/HxIaiI58SE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-ax9teju4ip.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-t1ll2ih5xv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9400,11 +9400,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R0FStGGOD8oKrhdmFDqqyikwQaLtNXgqOfY4pm27DnA=\""
+          "Value": "\"/pFvhjbusTvTIHY2sbSR/72SxUpBur9/eEumvCte1FM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:43:38 GMT"
+          "Value": "Tue, 22 Oct 2024 08:03:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9424,19 +9424,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gk7ndycV9LWas1qpKUZCvJDvKQMJJp+5h1/E2C8On6g=\""
+          "Value": "W/\"L4hJCFw4Wqr1IOohdAz2yxJN/fqNU9aF/HxIaiI58SE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gk7ndycV9LWas1qpKUZCvJDvKQMJJp+5h1/E2C8On6g="
+          "Value": "sha256-L4hJCFw4Wqr1IOohdAz2yxJN/fqNU9aF/HxIaiI58SE="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-ax9teju4ip.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\4l9m67wz8w-t1ll2ih5xv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9453,11 +9453,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"R0FStGGOD8oKrhdmFDqqyikwQaLtNXgqOfY4pm27DnA=\""
+          "Value": "\"/pFvhjbusTvTIHY2sbSR/72SxUpBur9/eEumvCte1FM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:43:38 GMT"
+          "Value": "Tue, 22 Oct 2024 08:03:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9475,7 +9475,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-R0FStGGOD8oKrhdmFDqqyikwQaLtNXgqOfY4pm27DnA="
+          "Value": "sha256-/pFvhjbusTvTIHY2sbSR/72SxUpBur9/eEumvCte1FM="
         }
       ]
     },
@@ -9617,168 +9617,7 @@
       ]
     },
     {
-      "Route": "_framework/DevIsCool.61cqjowh90.wasm",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23317"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61cqjowh90"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/DevIsCool.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DevIsCool.61cqjowh90.wasm",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-61cqjowh90.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000117398450"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8517"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61cqjowh90"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/DevIsCool.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DevIsCool.61cqjowh90.wasm.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-61cqjowh90.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8517"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61cqjowh90"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/DevIsCool.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DevIsCool.en42oj8dbn.pdb",
+      "Route": "_framework/DevIsCool.opz9obbmoh.pdb",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9788,7 +9627,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27444"
+          "Value": "29052"
         },
         {
           "Name": "Content-Type",
@@ -9796,11 +9635,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA=\""
+          "Value": "\"9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9810,7 +9649,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en42oj8dbn"
+          "Value": "opz9obbmoh"
         },
         {
           "Name": "label",
@@ -9818,18 +9657,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA="
+          "Value": "sha256-9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg="
         }
       ]
     },
     {
-      "Route": "_framework/DevIsCool.en42oj8dbn.pdb",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-en42oj8dbn.gz",
+      "Route": "_framework/DevIsCool.opz9obbmoh.pdb",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-opz9obbmoh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000048178840"
+          "Quality": "0,000047703096"
         }
       ],
       "ResponseHeaders": [
@@ -9839,15 +9678,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20755"
+          "Value": "20962"
         },
         {
           "Name": "ETag",
-          "Value": "\"V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA=\""
+          "Value": "\"TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9867,13 +9706,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA=\""
+          "Value": "W/\"9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en42oj8dbn"
+          "Value": "opz9obbmoh"
         },
         {
           "Name": "label",
@@ -9881,13 +9720,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA="
+          "Value": "sha256-9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg="
         }
       ]
     },
     {
-      "Route": "_framework/DevIsCool.en42oj8dbn.pdb.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-en42oj8dbn.gz",
+      "Route": "_framework/DevIsCool.opz9obbmoh.pdb.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-opz9obbmoh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9896,7 +9735,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20755"
+          "Value": "20962"
         },
         {
           "Name": "Content-Type",
@@ -9904,11 +9743,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA=\""
+          "Value": "\"TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9926,7 +9765,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "en42oj8dbn"
+          "Value": "opz9obbmoh"
         },
         {
           "Name": "label",
@@ -9934,7 +9773,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA="
+          "Value": "sha256-TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0="
         }
       ]
     },
@@ -9949,7 +9788,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "27444"
+          "Value": "29052"
         },
         {
           "Name": "Content-Type",
@@ -9957,11 +9796,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA=\""
+          "Value": "\"9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9971,18 +9810,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA="
+          "Value": "sha256-9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg="
         }
       ]
     },
     {
       "Route": "_framework/DevIsCool.pdb",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-en42oj8dbn.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-opz9obbmoh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000048178840"
+          "Quality": "0,000047703096"
         }
       ],
       "ResponseHeaders": [
@@ -9992,15 +9831,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20755"
+          "Value": "20962"
         },
         {
           "Name": "ETag",
-          "Value": "\"V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA=\""
+          "Value": "\"TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10020,19 +9859,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA=\""
+          "Value": "W/\"9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CogL8VidR6FI5Z0xICvH2TVdzVXgXQKFbjedvum0bwA="
+          "Value": "sha256-9I6x9jT2t4G4BeTlaEvRvXqSp34euranr0xFFxXnBsg="
         }
       ]
     },
     {
       "Route": "_framework/DevIsCool.pdb.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-en42oj8dbn.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\xo1jvy68vh-opz9obbmoh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10041,7 +9880,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "20755"
+          "Value": "20962"
         },
         {
           "Name": "Content-Type",
@@ -10049,11 +9888,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA=\""
+          "Value": "\"TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10071,7 +9910,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V/rkGXH2+BzTgVWaNaRlrbd+ntopz1zbVYWDb9gbwgA="
+          "Value": "sha256-TdA1DNBnzgkj/J5mmqHwhmwqWh+2y+YkIAoc3UpQgU0="
         }
       ]
     },
@@ -10086,7 +9925,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23317"
+          "Value": "24853"
         },
         {
           "Name": "Content-Type",
@@ -10094,11 +9933,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ=\""
+          "Value": "\"fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10108,18 +9947,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ="
+          "Value": "sha256-fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4="
         }
       ]
     },
     {
       "Route": "_framework/DevIsCool.wasm",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-61cqjowh90.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-xnu10xrs5o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000117398450"
+          "Quality": "0,000114929318"
         }
       ],
       "ResponseHeaders": [
@@ -10129,15 +9968,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8517"
+          "Value": "8700"
         },
         {
           "Name": "ETag",
-          "Value": "\"N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0=\""
+          "Value": "\"MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10157,19 +9996,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ=\""
+          "Value": "W/\"fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-alIWia28jpwyiLN/Tfm6lKFNnOJLNShx3nwSLP98YEQ="
+          "Value": "sha256-fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4="
         }
       ]
     },
     {
       "Route": "_framework/DevIsCool.wasm.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-61cqjowh90.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-xnu10xrs5o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10178,7 +10017,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8517"
+          "Value": "8700"
         },
         {
           "Name": "Content-Type",
@@ -10186,11 +10025,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0=\""
+          "Value": "\"MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:44:30 GMT"
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10208,7 +10047,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N6CtJ1LstV0Ibhp9X2cQqlFSEqRIwjjFX5vAAF5NBg0="
+          "Value": "sha256-MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DevIsCool.xnu10xrs5o.wasm",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DevIsCool.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24853"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnu10xrs5o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/DevIsCool.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DevIsCool.xnu10xrs5o.wasm",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-xnu10xrs5o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000114929318"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8700"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnu10xrs5o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/DevIsCool.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fSW76SHzCKQCZFYm7/4rA7Qyg3wK1HtvrDXk0qwvsR4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DevIsCool.xnu10xrs5o.wasm.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yj5iaqjxcn-xnu10xrs5o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 08:07:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnu10xrs5o"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/DevIsCool.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MVrEoO1CE9NUzboifIMf3vsNPSyivIxi+QTHHCf3j44="
         }
       ]
     },
@@ -70409,13 +70409,13 @@
       ]
     },
     {
-      "Route": "css/artigos-textos-styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\lnt32v705y-gb4ftx0pkg.gz",
+      "Route": "css/artigostextos.9dnm79a58i.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r2peq5pjjx-9dnm79a58i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,002652519894"
+          "Quality": "0,002538071066"
         }
       ],
       "ResponseHeaders": [
@@ -70425,19 +70425,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "376"
+          "Value": "393"
         },
         {
           "Name": "ETag",
-          "Value": "\"cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4=\""
+          "Value": "\"fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -70453,19 +70453,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k=\""
+          "Value": "W/\"zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9dnm79a58i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/artigostextos.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k="
+          "Value": "sha256-zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA="
         }
       ]
     },
     {
-      "Route": "css/artigos-textos-styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
+      "Route": "css/artigostextos.9dnm79a58i.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70474,7 +70482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "754"
+          "Value": "854"
         },
         {
           "Name": "Content-Type",
@@ -70482,27 +70490,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k=\""
+          "Value": "\"zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9dnm79a58i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/artigostextos.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k="
+          "Value": "sha256-zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA="
         }
       ]
     },
     {
-      "Route": "css/artigos-textos-styles.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\lnt32v705y-gb4ftx0pkg.gz",
+      "Route": "css/artigostextos.9dnm79a58i.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r2peq5pjjx-9dnm79a58i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70511,7 +70527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "376"
+          "Value": "393"
         },
         {
           "Name": "Content-Type",
@@ -70519,15 +70535,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4=\""
+          "Value": "\"fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -70540,19 +70556,27 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "9dnm79a58i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/artigostextos.css.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4="
+          "Value": "sha256-fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI="
         }
       ]
     },
     {
-      "Route": "css/artigos-textos-styles.gb4ftx0pkg.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\lnt32v705y-gb4ftx0pkg.gz",
+      "Route": "css/artigostextos.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r2peq5pjjx-9dnm79a58i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,002652519894"
+          "Quality": "0,002538071066"
         }
       ],
       "ResponseHeaders": [
@@ -70562,176 +70586,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "376"
+          "Value": "393"
         },
         {
           "Name": "ETag",
-          "Value": "\"cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4=\""
+          "Value": "\"fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gb4ftx0pkg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos-textos-styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos-textos-styles.gb4ftx0pkg.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "754"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gb4ftx0pkg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos-textos-styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nGR5LPmvqmhegSuNKQJAkJV6eljGrPPFgudHn+DYb/k="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos-textos-styles.gb4ftx0pkg.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\lnt32v705y-gb4ftx0pkg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "376"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 09:59:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gb4ftx0pkg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos-textos-styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cpvYrdI9beiqrec7VhP25rajbWkL93cLF6ycMTqofn4="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\a5ssc6hft8-cvkpsazzha.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,002849002849"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "350"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70751,19 +70614,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg=\""
+          "Value": "W/\"zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg="
+          "Value": "sha256-zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA="
         }
       ]
     },
     {
-      "Route": "css/artigos.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
+      "Route": "css/artigostextos.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70772,7 +70635,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "689"
+          "Value": "854"
         },
         {
           "Name": "Content-Type",
@@ -70780,11 +70643,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg=\""
+          "Value": "\"zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70794,13 +70657,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg="
+          "Value": "sha256-zSpx5k63UtdhXhBBPXSG8S+jo2cxNLg4nMtMknuThRA="
         }
       ]
     },
     {
-      "Route": "css/artigos.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\a5ssc6hft8-cvkpsazzha.gz",
+      "Route": "css/artigostextos.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\r2peq5pjjx-9dnm79a58i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70809,7 +70672,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "350"
+          "Value": "393"
         },
         {
           "Name": "Content-Type",
@@ -70817,11 +70680,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4=\""
+          "Value": "\"fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
+          "Value": "Tue, 22 Oct 2024 04:01:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -70839,168 +70702,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos.cvkpsazzha.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\a5ssc6hft8-cvkpsazzha.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,002849002849"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "350"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cvkpsazzha"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos.cvkpsazzha.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "689"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cvkpsazzha"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GNZajpsCO2GvPW/V9412XhYY0MXwI0SzVT8HXOGjYtg="
-        }
-      ]
-    },
-    {
-      "Route": "css/artigos.cvkpsazzha.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\a5ssc6hft8-cvkpsazzha.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "350"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 19:33:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cvkpsazzha"
-        },
-        {
-          "Name": "label",
-          "Value": "css/artigos.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-h80HWB4Kgoj+NlzPrNM9BllJ5q2akmNXc5UyAFU0CW4="
+          "Value": "sha256-fafzNObAP8aiJoQRI84Kod6ptUYd/XUb2Owf2VcsZxI="
         }
       ]
     },
@@ -71601,311 +71303,13 @@
       ]
     },
     {
-      "Route": "css/desafios.5ipweew5fc.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dpdzh4gbkd-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1,000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/desafios.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/desafios.5ipweew5fc.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/desafios.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/desafios.5ipweew5fc.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dpdzh4gbkd-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/desafios.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/desafios.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dpdzh4gbkd-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1,000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/desafios.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/desafios.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\dpdzh4gbkd-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:54:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
       "Route": "css/styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-iudw56jszi.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-lgtfiovfui.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,002252252252"
+          "Quality": "0,000713775874"
         }
       ],
       "ResponseHeaders": [
@@ -71915,15 +71319,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "443"
+          "Value": "1400"
         },
         {
           "Name": "ETag",
-          "Value": "\"9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs=\""
+          "Value": "\"0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71943,13 +71347,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I=\""
+          "Value": "W/\"5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I="
+          "Value": "sha256-5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw="
         }
       ]
     },
@@ -71964,7 +71368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "943"
+          "Value": "4199"
         },
         {
           "Name": "Content-Type",
@@ -71972,11 +71376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I=\""
+          "Value": "\"5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71986,13 +71390,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I="
+          "Value": "sha256-5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw="
         }
       ]
     },
     {
       "Route": "css/styles.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-iudw56jszi.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-lgtfiovfui.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72001,7 +71405,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "443"
+          "Value": "1400"
         },
         {
           "Name": "Content-Type",
@@ -72009,11 +71413,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs=\""
+          "Value": "\"0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72031,18 +71435,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs="
+          "Value": "sha256-0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U="
         }
       ]
     },
     {
-      "Route": "css/styles.iudw56jszi.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-iudw56jszi.gz",
+      "Route": "css/styles.lgtfiovfui.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-lgtfiovfui.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,002252252252"
+          "Quality": "0,000713775874"
         }
       ],
       "ResponseHeaders": [
@@ -72052,15 +71456,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "443"
+          "Value": "1400"
         },
         {
           "Name": "ETag",
-          "Value": "\"9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs=\""
+          "Value": "\"0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72080,13 +71484,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I=\""
+          "Value": "W/\"5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iudw56jszi"
+          "Value": "lgtfiovfui"
         },
         {
           "Name": "label",
@@ -72094,12 +71498,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I="
+          "Value": "sha256-5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw="
         }
       ]
     },
     {
-      "Route": "css/styles.iudw56jszi.css",
+      "Route": "css/styles.lgtfiovfui.css",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72109,7 +71513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "943"
+          "Value": "4199"
         },
         {
           "Name": "Content-Type",
@@ -72117,11 +71521,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I=\""
+          "Value": "\"5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72131,7 +71535,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iudw56jszi"
+          "Value": "lgtfiovfui"
         },
         {
           "Name": "label",
@@ -72139,13 +71543,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GjtfxCb1PGBzKzW0Vi8dL+chjcgx8VwgC6ibyStjM1I="
+          "Value": "sha256-5aSW528pgk9o3Ydr1toSp45DlbgMBKa4idgohdBCYBw="
         }
       ]
     },
     {
-      "Route": "css/styles.iudw56jszi.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-iudw56jszi.gz",
+      "Route": "css/styles.lgtfiovfui.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\g0ezozepm3-lgtfiovfui.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72154,7 +71558,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "443"
+          "Value": "1400"
         },
         {
           "Name": "Content-Type",
@@ -72162,11 +71566,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs=\""
+          "Value": "\"0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 12:24:48 GMT"
+          "Value": "Tue, 22 Oct 2024 07:56:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72184,7 +71588,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "iudw56jszi"
+          "Value": "lgtfiovfui"
         },
         {
           "Name": "label",
@@ -72192,316 +71596,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9CcDJJ5vaDRjr7UonRegQ7Xe1ar6ZowRsNs4CqE2+zs="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.5ipweew5fc.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yrp0g8znia-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1,000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/videos.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.5ipweew5fc.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/videos.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.5ipweew5fc.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yrp0g8znia-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5ipweew5fc"
-        },
-        {
-          "Name": "label",
-          "Value": "css/videos.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yrp0g8znia-5ipweew5fc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "1,000000000000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
-        }
-      ]
-    },
-    {
-      "Route": "css/videos.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\yrp0g8znia-5ipweew5fc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "0"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 05:53:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+          "Value": "sha256-0So2UPUv1To/hBhVK/DgwOUI7F5ZwPgPT6/wo0dId+U="
         }
       ]
     },
     {
       "Route": "DevIsCool.bundle.scp.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-ljyi8txsap.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-zl91tndmvh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000683060109"
+          "Quality": "0,000685871056"
         }
       ],
       "ResponseHeaders": [
@@ -72511,15 +71617,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72539,13 +71645,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "W/\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
@@ -72560,7 +71666,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4697"
+          "Value": "4781"
         },
         {
           "Name": "Content-Type",
@@ -72568,11 +71674,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72582,13 +71688,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
     {
       "Route": "DevIsCool.bundle.scp.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-ljyi8txsap.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-zl91tndmvh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72597,7 +71703,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "Content-Type",
@@ -72605,11 +71711,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72627,18 +71733,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE="
+          "Value": "sha256-jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.bundle.scp.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-ljyi8txsap.gz",
+      "Route": "DevIsCool.styles.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-zl91tndmvh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000683060109"
+          "Quality": "0,000685871056"
         }
       ],
       "ResponseHeaders": [
@@ -72648,15 +71754,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
+        }
+      ]
+    },
+    {
+      "Route": "DevIsCool.styles.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
+        }
+      ]
+    },
+    {
+      "Route": "DevIsCool.styles.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-zl91tndmvh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8="
+        }
+      ]
+    },
+    {
+      "Route": "DevIsCool.zl91tndmvh.bundle.scp.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-zl91tndmvh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000685871056"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1457"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72676,13 +71919,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "W/\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72690,12 +71933,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.bundle.scp.css",
+      "Route": "DevIsCool.zl91tndmvh.bundle.scp.css",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevIsCool.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72705,7 +71948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4697"
+          "Value": "4781"
         },
         {
           "Name": "Content-Type",
@@ -72713,11 +71956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72727,7 +71970,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72735,13 +71978,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.bundle.scp.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-ljyi8txsap.gz",
+      "Route": "DevIsCool.zl91tndmvh.bundle.scp.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\0h9ibojpwg-zl91tndmvh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72750,7 +71993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "Content-Type",
@@ -72758,11 +72001,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72780,7 +72023,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72788,18 +72031,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE="
+          "Value": "sha256-jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-ljyi8txsap.gz",
+      "Route": "DevIsCool.zl91tndmvh.styles.css",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-zl91tndmvh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,000683060109"
+          "Quality": "0,000685871056"
         }
       ],
       "ResponseHeaders": [
@@ -72809,15 +72052,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72837,13 +72080,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "W/\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72851,12 +72094,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.styles.css",
+      "Route": "DevIsCool.zl91tndmvh.styles.css",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72866,7 +72109,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4697"
+          "Value": "4781"
         },
         {
           "Name": "Content-Type",
@@ -72874,11 +72117,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
+          "Value": "\"5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72888,7 +72131,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72896,13 +72139,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
+          "Value": "sha256-5y9dByRYmO9yzd5jWngQrv6zXwBykpnOcSgiYucYw4A="
         }
       ]
     },
     {
-      "Route": "DevIsCool.ljyi8txsap.styles.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-ljyi8txsap.gz",
+      "Route": "DevIsCool.zl91tndmvh.styles.css.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-zl91tndmvh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72911,7 +72154,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1463"
+          "Value": "1457"
         },
         {
           "Name": "Content-Type",
@@ -72919,11 +72162,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
+          "Value": "\"jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
+          "Value": "Tue, 22 Oct 2024 06:37:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72941,7 +72184,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ljyi8txsap"
+          "Value": "zl91tndmvh"
         },
         {
           "Name": "label",
@@ -72949,144 +72192,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE="
-        }
-      ]
-    },
-    {
-      "Route": "DevIsCool.styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-ljyi8txsap.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,000683060109"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1463"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
-        }
-      ]
-    },
-    {
-      "Route": "DevIsCool.styles.css",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DevIsCool.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4697"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YSuNUFItmfhiWwPTbcry8EVFvf2gXK942Pkdvlaicpw="
-        }
-      ]
-    },
-    {
-      "Route": "DevIsCool.styles.css.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\e2ezkpry1f-ljyi8txsap.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1463"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 21 Oct 2024 13:30:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Tr4gnclYwyuaH1kYuDfNnyagDC4Sjg8IM9ouSiBFfOE="
+          "Value": "sha256-jV+HWcIvkLcI/3hitfNKDlVyoLloykKQWU/FLHvRFB8="
         }
       ]
     },
@@ -73419,6 +72525,170 @@
       ]
     },
     {
+      "Route": "images/fundo.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"266FD7emOSYiR5RLIPyO6L4N6PryMPzeOFl06z1WYVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 01:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-266FD7emOSYiR5RLIPyO6L4N6PryMPzeOFl06z1WYVc="
+        }
+      ]
+    },
+    {
+      "Route": "images/fundo.zmq0crty1m.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762262"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"266FD7emOSYiR5RLIPyO6L4N6PryMPzeOFl06z1WYVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 01:53:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmq0crty1m"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fundo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-266FD7emOSYiR5RLIPyO6L4N6PryMPzeOFl06z1WYVc="
+        }
+      ]
+    },
+    {
+      "Route": "images/fundo2.ds77sru4fq.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LevFLQG6hN0uYHwpw4VdsP2f/Ts3CkQWNrP8MDANiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 06:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ds77sru4fq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fundo2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LevFLQG6hN0uYHwpw4VdsP2f/Ts3CkQWNrP8MDANiU4="
+        }
+      ]
+    },
+    {
+      "Route": "images/fundo2.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "699721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LevFLQG6hN0uYHwpw4VdsP2f/Ts3CkQWNrP8MDANiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 06:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LevFLQG6hN0uYHwpw4VdsP2f/Ts3CkQWNrP8MDANiU4="
+        }
+      ]
+    },
+    {
       "Route": "images/logo.h1wc09d3ra.jpg",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
@@ -73497,6 +72767,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-NYGqFc4vWQ5WdhYxM4f9ALGILQ4lnKfM+mERndw0CaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.03368hhc44.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFEVGMdUYy4zoH8ewsy+E1loc4NdTEWZwxy4yqkfrDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 01:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03368hhc44"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFEVGMdUYy4zoH8ewsy+E1loc4NdTEWZwxy4yqkfrDM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HFEVGMdUYy4zoH8ewsy+E1loc4NdTEWZwxy4yqkfrDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 01:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HFEVGMdUYy4zoH8ewsy+E1loc4NdTEWZwxy4yqkfrDM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1menor.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1menor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"De0Tp8mDESimleUeRlX0jKyKSQhonA+CU+jqIKwqSl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 03:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-De0Tp8mDESimleUeRlX0jKyKSQhonA+CU+jqIKwqSl0="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo1menor.reqhvtippd.jpg",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1menor.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"De0Tp8mDESimleUeRlX0jKyKSQhonA+CU+jqIKwqSl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 03:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "reqhvtippd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo1menor.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-De0Tp8mDESimleUeRlX0jKyKSQhonA+CU+jqIKwqSl0="
         }
       ]
     },
@@ -73665,13 +73099,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-ru57qmlflx.gz",
+      "Route": "index.g9npvrjjvn.html",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-g9npvrjjvn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0,002123142251"
+          "Quality": "0,002118644068"
         }
       ],
       "ResponseHeaders": [
@@ -73681,19 +73115,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "470"
+          "Value": "471"
         },
         {
           "Name": "ETag",
-          "Value": "\"Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds=\""
+          "Value": "\"77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -73709,18 +73143,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA=\""
+          "Value": "W/\"/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "g9npvrjjvn"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA="
+          "Value": "sha256-/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.g9npvrjjvn.html",
       "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73730,7 +73172,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "969"
+          "Value": "966"
         },
         {
           "Name": "Content-Type",
@@ -73738,121 +73180,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA=\""
+          "Value": "\"/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-ru57qmlflx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "470"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds="
-        }
-      ]
-    },
-    {
-      "Route": "index.ru57qmlflx.html",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-ru57qmlflx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0,002123142251"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "470"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ru57qmlflx"
+          "Value": "g9npvrjjvn"
         },
         {
           "Name": "label",
@@ -73860,13 +73202,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA="
+          "Value": "sha256-/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c="
         }
       ]
     },
     {
-      "Route": "index.ru57qmlflx.html",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
+      "Route": "index.g9npvrjjvn.html.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-g9npvrjjvn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73875,7 +73217,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "969"
+          "Value": "471"
         },
         {
           "Name": "Content-Type",
@@ -73883,56 +73225,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA=\""
+          "Value": "\"77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ru57qmlflx"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nWSrvqJ/enen87of7dyorJcgCZ5FxuuWyMTVqn0mTUA="
-        }
-      ]
-    },
-    {
-      "Route": "index.ru57qmlflx.html.gz",
-      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-ru57qmlflx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "470"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 16 Oct 2024 04:22:24 GMT"
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73950,7 +73247,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ru57qmlflx"
+          "Value": "g9npvrjjvn"
         },
         {
           "Name": "label",
@@ -73958,7 +73255,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Uf6cWWOKJ+jpIlr4juAx6X3UUcB6nAm6kAtV6HVWRds="
+          "Value": "sha256-77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-g9npvrjjvn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,002118644068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "471"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/AI8StAkMFS7z0VZXckyRA0XbPfIRGe1ZoC1sW6Wq8c="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\fo44tlmac4-g9npvrjjvn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "471"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 13:59:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-77R00LsGsBLtzwGp1NHkM8974jsI237VgtfpDJXVtFo="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.4f0ytoih9r.js",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pl3utv8phw-4f0ytoih9r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f0ytoih9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carrossel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.4f0ytoih9r.js",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f0ytoih9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carrossel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.4f0ytoih9r.js.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pl3utv8phw-4f0ytoih9r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f0ytoih9r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carrossel.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.js",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pl3utv8phw-4f0ytoih9r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,004219409283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.js",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "530"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oDOVJi2jD+gD2RvLGw2yVe2ucS+MPUiWfBjJFc9HJL0="
+        }
+      ]
+    },
+    {
+      "Route": "js/carrossel.js.gz",
+      "AssetFile": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\obj\\Debug\\net9.0\\compressed\\pl3utv8phw-4f0ytoih9r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Oct 2024 07:56:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNP5+mpbiZBfF7zfOQ4m8+o5x3FZr0aC3LE0Dk45J6I="
         }
       ]
     },

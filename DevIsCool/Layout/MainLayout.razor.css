@@ -9,25 +9,28 @@ main {
 }
 
 .sidebar {
-    background-image: linear-gradient(180deg,#759399  0%, #f5e6c9 50%, #ffff);
+    background-image: linear-gradient(180deg, #000000 0%, #1E3E62 70%); /* Preto predominante */
 }
 
 .top-row {
-    background-color: #759399;
-    border-bottom: 1px solid #f0d5d5;
+    background-color: #0B192C; /* Fundo escuro */
+    border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
     align-items: center;
 }
 
-.top-row ::deep a, .top-row ::deep .btn-link {
+.top-row ::deep a,
+.top-row ::deep .btn-link {
     white-space: nowrap;
     margin-left: 1.5rem;
     text-decoration: none;
+    color: #FF6500; /* Laranja */
 }
 
-.top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
+.top-row ::deep a:hover,
+.top-row ::deep .btn-link:hover {
     text-decoration: underline;
 }
 
@@ -41,7 +44,8 @@ main {
         justify-content: space-between;
     }
 
-    .top-row ::deep a, .top-row ::deep .btn-link {
+    .top-row ::deep a,
+    .top-row ::deep .btn-link {
         margin-left: 0;
     }
 }
@@ -70,7 +74,8 @@ main {
         width: 0;
     }
 
-    .top-row, article {
+    .top-row,
+    article {
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }

@@ -13,12 +13,8 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos-textos-styles.css",
-      "PackagePath": "staticwebassets\\css\\artigos-textos-styles.css"
-    },
-    {
-      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigos.css",
-      "PackagePath": "staticwebassets\\css\\artigos.css"
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\artigostextos.css",
+      "PackagePath": "staticwebassets\\css\\artigostextos.css"
     },
     {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
@@ -29,16 +25,8 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\desafios.css",
-      "PackagePath": "staticwebassets\\css\\desafios.css"
-    },
-    {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
-    },
-    {
-      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\css\\videos.css",
-      "PackagePath": "staticwebassets\\css\\videos.css"
     },
     {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\favicon.png",
@@ -57,8 +45,24 @@
       "PackagePath": "staticwebassets\\images\\baner2.jpeg"
     },
     {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo.jpg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\fundo2.jpg",
+      "PackagePath": "staticwebassets\\images\\fundo2.jpg"
+    },
+    {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1.jpg",
+      "PackagePath": "staticwebassets\\images\\logo1.jpg"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo1menor.jpg",
+      "PackagePath": "staticwebassets\\images\\logo1menor.jpg"
     },
     {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\images\\logo2.jpeg",
@@ -71,6 +75,10 @@
     {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\js\\carrossel.js",
+      "PackagePath": "staticwebassets\\js\\carrossel.js"
     },
     {
       "Id": "A:\\Dev-Escola\\Dev-Is-Cool\\DevIsCool\\wwwroot\\logo.jpg",

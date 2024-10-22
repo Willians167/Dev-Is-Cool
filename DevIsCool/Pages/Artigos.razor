@@ -1,35 +1,51 @@
 @page "/artigos"
 
 <PageTitle>Artigos</PageTitle>
-<!-- Para Blazor WebAssembly (wwwroot/index.html) -->
-<head>
-    <link href="css/artigos.css" rel="stylesheet" />
-</head>
-<body>
-<h1>Artigos</h1>
 
-<div class="artigo-container">
-    <div class="artigo" >
-        <h2>Vamos instalar o vs Code?</h2>
-        <p>Aqui você vai aprender como instalar o Visual studio Code , ferramenta poderosa para começarmos a desenvolver nossos códigos.</p>
-        <a href="/artigo1" class="btn btn-primary">Leia mais</a>
+<head>
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<main>
+    <h1>Artigos</h1>
+
+    <!-- Container do Carrossel -->
+    <div class="carrossel-container">
+        <button class="prev-btn">&lt;</button> <!-- Botão para rolar para a esquerda -->
+        <div class="carrossel">
+            <div class="artigo-card">
+                <h2>Vamos instalar o VS Code?</h2>
+                <p>Aqui você vai aprender como instalar o Visual Studio Code, ferramenta poderosa para começarmos a desenvolver nossos códigos.</p>
+                <a href="/artigo1" class="btn">Leia mais</a>
+            </div>
+
+            <div class="artigo-card">
+                <h2>Artigo 2</h2>
+                <p>Em Breve...</p>
+                <a href="/artigos/artigo2" class="btn">Leia mais</a>
+            </div>
+
+            <div class="artigo-card">
+                <h2>Artigo 3</h2>
+                <p>Em Breve</p>
+                <a href="/artigos/artigo3" class="btn">Leia mais</a>
+            </div>
+             <div class="artigo-card">
+                <h2>Artigo 4</h2>
+                <p>Em Breve</p>
+                <a href="/artigos/artigo3" class="btn">Leia mais</a>
+            </div>
+
+             <div class="artigo-card">
+                <h2>Artigo 5</h2>
+                <p>Em Breve</p>
+                <a href="/artigos/artigo3" class="btn">Leia mais</a>
+            </div>
+
+            <!-- Adicione mais artigos conforme necessário -->
+        </div>
+        <button class="next-btn">&gt;</button> <!-- Botão para rolar para a direita -->
     </div>
-    
-    <div class="artigo" >
-        <h2> Artigo 2</h2>
-        <p>Em Breve...</p>
-        <a href="/artigos/artigo2" class="btn btn-primary">Leia mais</a>
-    </div>
-    
-    <div class="artigo" >
-        <h2>Artigo 3</h2>
-        <p>Em Breve</p>
-        <a href="/artigos/artigo3" class="btn btn-primary">Leia mais</a>
-    </div>
-    
-    <!-- Adicione mais artigos conforme necessário -->
-</div>
-</body>
-@code {
-    // Aqui você pode adicionar lógica para buscar os artigos de uma API ou banco de dados
-}
+</main>
+
+<script src="js/carrossel.js"></script>

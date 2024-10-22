@@ -1,28 +1,20 @@
 ﻿@page "/"
-
 <HeadContent>
     <link href="css/styles.css" rel="stylesheet" />
 </HeadContent>
 
-@* HTML do Layout *@
-
-    <nav>
-        <img src="images/baner2.jpeg" alt="Logo Dev Is Cool" style="width: 700px; height: auto;" /> 
-       
-    </nav>
-
-
 <main>
-    <section>
-        <h3>Minha missão com esse projeto é ajudar quem está começando 
-            com ambiente de desenvolvimento, sintaxe, e lógica de programação</h3>
+    <section style="display: flex; align-items: center;">
+        <img src="images/logo1.jpg" alt="Logo Dev Is Cool" 
+             style="width: 480px; height: auto; margin-right: 20px; mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 70%); mask-size: contain;" />
+
+        <div class="card">
+            <h3>Minha missão com esse projeto é ajudar quem está começando 
+                com ambiente de desenvolvimento, sintaxe, e lógica de programação</h3>
+        </div>
     </section>
 </main>
 
 <footer>
     <p>&copy; 2024 Dev Is Cool. All rights reserved.</p>
 </footer>
-
-@code {
-    // Lógica C# ou serviços podem ser adicionados aqui no futuro, caso necessário
-}
